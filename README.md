@@ -2,4 +2,4 @@
 1. Тарнопольський Вадим ІПЗм-25-2
 2. vadimtarbopolskij-web (другий акаунт)
 
-Конфлікт 1
+Version: from vadym1
